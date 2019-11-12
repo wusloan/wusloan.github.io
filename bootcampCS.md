@@ -1,5 +1,3 @@
-## Welcome to https://www.sloan.top
-
 # 自学计算机科学
 
 > 本文档是对[TeachYourselfCS](https://teachyourselfcs.com)内容的中文翻译，原作者为[Ozan Onay](https://twitter.com/oznova_)和[Myles Byrne](https://twitter.com/quackingduck)。如需了解翻译相关信息或帮助改进翻译，请参见[本文档结尾](#这份指引是谁翻译的)。
@@ -249,5 +247,3 @@ FreeCodeCamp主要关注编程，而不是计算机科学。至于你为什么�
 ### 这份指引是谁翻译的？
 
 这份指引的中文翻译是[社区共同贡献的成果](https://github.com/keithnull/TeachYourselfCS-CN/)，我们欢迎任何反馈和改进！
-
-
