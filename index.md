@@ -1,6 +1,6 @@
-## Welcome to https://www.sloan.top
+# Welcome to <https://www.sloan.top>
 
-# 自学计算机科学
+## 自学计算机科学
 
 > 本文档是对[TeachYourselfCS](https://teachyourselfcs.com)内容的中文翻译，原作者为[Ozan Onay](https://twitter.com/oznova_)和[Myles Byrne](https://twitter.com/quackingduck)。如需了解翻译相关信息或帮助改进翻译，请参见[本文档结尾](#这份指引是谁翻译的)。
 >
@@ -10,8 +10,8 @@
 
 互联网上，到处都有许多的学习资源，然而精华与糟粕并存。你所需要的，不是一个诸如“200+免费在线课程”的清单，而是以下问题的答案：
 
-*   你应当学习**哪些科目**，为什么？
-*   对于这些科目，**最好的书籍或者视频课程**是什么？
+* 你应当学习**哪些科目**，为什么？
+* 对于这些科目，**最好的书籍或者视频课程**是什么？
 
 在这份指引中，我们尝试对这些问题做出确定的回答。
 
@@ -31,7 +31,7 @@
 | **[编程语言与编译器](#编程语言与编译器)** | 若你懂得编程语言和编译器如何工作，你就能写出更好的代码，更轻松地学习新的编程语言。     | _[《编译原理》](https://book.douban.com/subject/3296317/)_                                                                                    | Alex Aiken’s course on Lagunita   |
 | **[分布式系统](#分布式系统)**             | 如今，_多数_ 系统都是分布式的。                                                        | _《分布式系统原理与范型》（[中文第二版](https://book.douban.com/subject/3108801/)，[英文第三版](https://book.douban.com/subject/26979326/)）_ | 🤷‍                                 |
 
-## 为什么要学习计算机科学？
+## 为什么要学习计算机科学
 
 软件工程师分为两种：一种充分理解了计算机科学，从而有能力应对充满挑战的创造性工作；另一种仅仅凭着对一些高级工具的熟悉而勉强应付。
 
@@ -204,9 +204,9 @@ _[《Readings in Database Systems》](https://book.douban.com/subject/2256069/)_
 
 我们试图把计算机科学主题清单限制到那些我们认为 _每一个软件工程师_ 都应该了解的内容，不限于专业或行业。拥有了这些基础，你将能更加轻松地挑选教材或论文，然而无需指引地学习核心概念。在这里，我们给出一些其他常见主题的自学起点：
 
-*   人工智能：通过观看视频并完成Pacman项目来学习[Berkeley的AI课程](http://ai.berkeley.edu/)。至于教材，使用Russell和Norvig编写的 _[《人工智能：一种现代方法》](https://book.douban.com/subject/25796281/)_。
-*   机器学习：学习吴恩达在Coursera上的课程。耐心学习，先确保理解了基础概念再奔向类如深度学习的诱人新主题。
-*   计算机图形学：学习[Berkeley CS 184课程](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)的材料，使用[《计算机图形学：原理及实践》](https://book.douban.com/subject/30402778/)作为教材。
+* 人工智能：通过观看视频并完成Pacman项目来学习[Berkeley的AI课程](http://ai.berkeley.edu/)。至于教材，使用Russell和Norvig编写的 _[《人工智能：一种现代方法》](https://book.douban.com/subject/25796281/)_。
+* 机器学习：学习吴恩达在Coursera上的课程。耐心学习，先确保理解了基础概念再奔向类如深度学习的诱人新主题。
+* 计算机图形学：学习[Berkeley CS 184课程](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)的材料，使用[《计算机图形学：原理及实践》](https://book.douban.com/subject/30402778/)作为教材。
 
 ### 一定要严格遵守推荐的学习次序吗？
 
@@ -249,5 +249,4 @@ FreeCodeCamp主要关注编程，而不是计算机科学。至于你为什么�
 ### 这份指引是谁翻译的？
 
 这份指引的中文翻译是[社区共同贡献的成果](https://github.com/keithnull/TeachYourselfCS-CN/)，我们欢迎任何反馈和改进！
-
-
+#
