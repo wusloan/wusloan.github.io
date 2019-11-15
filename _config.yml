@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 baseURL: index.html
+=======
+theme: jekyll-theme-leap-day
+>>>>>>> 4a93e8c705d95d7616f22dac0d3e3a8dcbe8e4bd
