@@ -248,4 +248,5 @@ FreeCodeCamp主要关注编程，而不是计算机科学。至于你为什么�
 
 ### 这份指引是谁翻译的？
 
-这份指引的中文翻译是[社区共同贡献的成果](https://github.com/keithnull/TeachYourselfCS-CN/)，主要翻译者[Wu Zhengke](https://github.com/keithnull/TeachYourselfCS-CN/),我们欢迎任何反馈和改进！
+这份指引的中文翻译是[社区共同贡献的成果](https://github.com/keithnull/TeachYourselfCS-CN/)。
+主要翻译者[Wu Zhengke](https://github.com/keithnull/TeachYourselfCS-CN/)，我们欢迎任何反馈和改进！
