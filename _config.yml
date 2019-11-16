@@ -1,4 +1,3 @@
-baseURL: /wusloan.github.io 
 name: Sloan Wu, Practicus thinking.
 permalink: /pages/:year/:month/:day/:title
 markdown: kramdown
